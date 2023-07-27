@@ -1,15 +1,23 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roman
-=============================================================================================================================
+```python
+class PythonDeveloper:
 
-Python Developer
-----------------
+    def __init__(self):
+        self.name = "roman-prizrakjj"
+        self.role = "Python Developer"
+        self.language_spoken =  "ru_RU"
+        self.skills = ["Python", "WEB3", "c#"]
+        self.contact = "prizrakjj.r@gmail.com"
+        
 
-Я начинающий разработчик, на данный момент за моими плечами несколько коммерческих проектов в сфере WEB3.
+    def say_hi(self):
+        print("Спасибо, что заглянули, надеюсь, вам понравятся некоторые из моих работ..")
 
-* 🌍  I'm based in РФ
-* ✉️  You can contact me at [prizrakjj.r@gmail.com](mailto:prizrakjj.r@gmail.com)
-* 🧠  I'm learning stepik
-* 🤝  I'm open to collaborating on Автоматизация и скриптинг
+
+me = PythonDeveloper()
+me.say_hi()
+
+```
+
 
 ### Skills
 
