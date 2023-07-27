@@ -37,7 +37,7 @@ me.say_hi()
 
 
    ### WEB3
-<a href="https://binance-docs.github.io/apidocs/#change-log" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/7cf9089c34b802962ee3c729e0694779d1b9de7ac17c70075c81aebec8dee6e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f42696e616e63652d4643443533353f7374796c653d666f722d7468652d6261646765266c6f676f3d62696e616e6365266c6f676f436f6c6f723d7768697465" width="100" height="36" alt="Binance" /></a>
+<a href="https://binance-docs.github.io/apidocs/#change-log" target="_blank" rel="noreferrer"><img src="https://techinfosite.com/wp-content/uploads/2022/07/Binance-Review-1536x864.jpg" width="100" height="36" alt="Binance" /></a>
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 <a href="https://chain.link/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg" width="36" height="36" alt="Chainlink" /></a>
 <a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" /></a>
