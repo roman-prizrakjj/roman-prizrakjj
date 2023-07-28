@@ -19,7 +19,7 @@ me.say_hi()
 ```
 
 
-### Skills
+## 💻 Skills
 
 
 <p align="left">
@@ -36,7 +36,7 @@ me.say_hi()
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="50" height="50" alt="TensorFlow" /></a>
 
 
-   ### WEB3
+   ## 💻 WEB3
 <a href="https://binance-docs.github.io/apidocs/#change-log" target="_blank" rel="noreferrer"><img src="https://techinfosite.com/wp-content/uploads/2022/07/Binance-Review-1536x864.jpg" width="100" height="50" alt="Binance" /></a>
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="50" height="50" alt="MetaMask" /></a>
 <a href="https://chain.link/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg" width="50" height="50" alt="Chainlink" /></a>
@@ -49,10 +49,10 @@ me.say_hi()
 </p>
 
 
-### Socials
+##  ✍ Socials
 
 <p align="left"> <a href="https://discord.com/users/Grizli#3107" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/roman-prizrakjj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
-### Humor
+## ✴ Humor
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
