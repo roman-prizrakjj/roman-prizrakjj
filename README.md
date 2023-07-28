@@ -52,7 +52,8 @@ me.say_hi()
 
 ##  ✍ Socials
 
-<p align="left"> <a href="https://discord.com/users/Grizli#3107" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/roman-prizrakjj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+    <a href="https://discord.com/users/Grizli#3107" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="50" height="50" /></a> <a href="https://www.github.com/roman-prizrakjj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="60" /></a> <a href="https://t.me/Kaidzen_aksel" target="_blank" rel="noreferrer"><img src="https://cdn1.iconfinder.com/data/icons/andriod-app-logo/32/icon_telegram-1024.png" width="50" height="50" /></a> </p>
 
 ## ✴ Humor
 
